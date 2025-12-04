@@ -157,6 +157,19 @@ Pull requests are welcome.
 ---
 
 
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](student_project/screenshots/home.png)
+
+### 📝 Add Student
+![Add Student](student_project/screenshots/add student.png)
+
+### 📋 Student Details / List
+![Student Details](student_project/screenshots/details.png)
+
+----
+
 
 \## 📬 Contact
 
